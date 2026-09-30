@@ -2,6 +2,10 @@
 
 A  R Shiny app for calculating **Legiolert MPN per 100 mL** and approximate 95% confidence limits from Quanti-Tray/Legiolert results. This is intended as an alternative to the IDEXX program for calculating Legiolert 95% Confidence Intervals.
 
+## Shiny app
+
+This app is available at https://qmraswim.shinyapps.io/legiolert-MPN/
+
 ## Inputs
 
 - **Positive small wells:** 0–90
@@ -27,9 +31,6 @@ The authors supplied a handy excel sheet that can be used to do these same calcu
 
 The 95% interval is the approximate interval based on ±2 standard deviations of ln(MPN), transformed back to the original scale.
 
-## Shiny app
-
-This app is available at https://qmraswim.shinyapps.io/legiolert-MPN/
 
 ## Run locally
 
