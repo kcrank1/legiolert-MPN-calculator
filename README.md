@@ -8,7 +8,7 @@ A  R Shiny app for calculating **Legiolert MPN per 100 mL** and approximate 95% 
 - **Positive large wells:** 0–6
 - **Dilution factor:** use `1` for an undiluted sample; `0.1` for a 1:10 dilution, etc.
 
-The app uses the fixed Legiolert tray parameters:
+The app uses these tray parameters:
 
 - 90 small wells (0.198 mL)
 - 6 large wells (13.7 mL)
